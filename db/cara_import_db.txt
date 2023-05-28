@@ -1,0 +1,7 @@
+masuk ke localhost/phpmyadmin
+
+buat database dengan nama projek_jadwal_tugas
+
+masuk ke menu import
+
+lalu import file projek_jadwal_tugas.sql
